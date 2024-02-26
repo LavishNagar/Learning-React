@@ -1,0 +1,1 @@
+export const Logo_Cdn_url="https://i.pinimg.com/280x280_RS/fb/ec/76/fbec767fbb03224f1f4aabde0197a273.jpg";
